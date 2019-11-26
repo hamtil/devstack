@@ -53,6 +53,7 @@ RUN apt update && apt dist-upgrade -y && \
         php5.6-imagick \
         php5.6-imap \
         php5.6-ldap \
+        php5.6-mbstring \
         php5.6-mcrypt \
         php5.6-memcached \
         php5.6-mongo \
